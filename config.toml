@@ -1,0 +1,4 @@
+baseURL = "https://sunnywillow.github.io/sunnywillow-hugo/"
+languageCode = "en-us"
+title = "Hello World!"
+theme = "ananke"
