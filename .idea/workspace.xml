@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e40c84-e4cf-40f7-b865-be1f73f8dbda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/my-first-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/my-first-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/第一天.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/第一天.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="861" />
     <option name="y" value="3" />
     <option name="width" value="1039" />
@@ -200,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589191401035</updated>
-      <workItem from="1589191402527" duration="2701000" />
+      <workItem from="1589191402527" duration="2956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2701000" />
+    <option name="totallyTimeSpent" value="2956000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
